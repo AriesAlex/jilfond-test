@@ -56,7 +56,7 @@ export default {
   components: { Loading },
   data() {
     return {
-      query: '1,2,3',
+      query: '',
     }
   },
   computed: {
